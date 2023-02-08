@@ -9,6 +9,16 @@ This tutorial outlines the set up for an Azure Virtual Machine. <br />
 
 - Windows 10</b> (21H2)
 
+
+<h2>Installation Steps</h2>
+1. Set up a new Resouce Group in Azure
+2. Name and choose Region for Resource Group
+3. Create Virtual Machine
+4. Choose Settings for VM
+5. Set up Admin Account for VM
+6. Create VM
+7. Verify VM completion
+
 <h2>Installation Steps</h2>
 
 <p>
