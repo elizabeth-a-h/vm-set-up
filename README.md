@@ -11,6 +11,7 @@ This tutorial outlines the set up for an Azure Virtual Machine. <br />
 
 
 <h2>Installation Steps</h2>
+
 1. Set up a new Resouce Group in Azure
 2. Name and choose Region for Resource Group
 3. Create Virtual Machine
